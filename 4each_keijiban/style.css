@@ -1,0 +1,121 @@
+body{
+	font-family:"Hiragino Kaku Gothic Pron","メイリオ",sans-serif;
+}
+
+header{ margin:0 auto;
+}
+
+header img{
+	width:300px;
+}
+
+.main_menue{
+	background-color:black;
+	width:100%;
+	height:60px;
+}
+
+header ul li{
+	list-style:none;
+	float:left;
+	color:white;
+	line-height:60px;
+	padding-right:50px;
+}
+
+
+main{margin:auto 0;
+	clear:both;
+}
+
+.left{
+	float:left;
+	width:70%;
+}
+
+.left h1{
+	border-left:4px black solid;
+	border-bottom:2px black solid;
+	padding-left:10px;
+}
+
+form{
+	background-color:#efefef;
+	border:2px lightgray solid;
+	border-radius:2px;
+	padding:10px;
+}
+
+form h2{
+	border-left:4px red solid;
+	margin-left:10px;
+	padding-left:10px;
+	font-size:20px;
+}
+
+form div{
+	padding-bottom:20px;
+	color:dimgray;
+}
+
+form .submit{
+	border:1px lightgray solid;
+	border-radius:5px;
+	background-color:gray;
+	color:white;
+	border-bottom:3px dimgray solid;
+	padding:3px 10px;
+}
+
+.right{
+	float:left;
+	width:30%;
+	margin-top:30px;
+}
+
+.right h2{
+	margin-left:20px;
+	font-size:20px;
+	border-bottom:2px black dotted;
+}
+
+.right ul li{
+	list-style:none;
+	padding-bottom:5px;
+}
+
+.boards{
+	margin-top:20px;
+	margin-bottom:30px;
+}
+
+.board{
+	margin:10px;
+	background-color:#efefef;
+	border:2px lightgray solid;
+	border-radius:5px;
+	padding:10px;
+}
+
+.board h2{
+	font-size:18px;
+	border-bottom:1px lightgray solid;
+}
+
+.board p{
+	font-size:15px;
+}
+
+.board .handlename{
+	font-size:8px;
+}
+
+footer{margin:0 auto;
+	clear:both;
+	background-color:black;
+	width:100%;
+	height;60px;
+	color:white;
+	line-height:60px;
+	text-align:center;
+}
