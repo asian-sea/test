@@ -1,0 +1,13 @@
+127.0.0.1 - - [13/Mar/2019:19:43:47 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [13/Mar/2019:19:43:50 +0900] "GET /WebProj4/ HTTP/1.1" 200 804
+0:0:0:0:0:0:0:1 - - [13/Mar/2019:19:43:53 +0900] "POST /WebProj4/WelcomeAction.action;jsessionid=DEA1043EC2E7134DD9C8D8CDED87907F HTTP/1.1" 200 864
+0:0:0:0:0:0:0:1 - - [13/Mar/2019:19:44:01 +0900] "POST /WebProj4/LoginAction.action HTTP/1.1" 200 478
+0:0:0:0:0:0:0:1 - - [13/Mar/2019:19:44:01 +0900] "GET /WebProj4/css/style.css HTTP/1.1" 200 1410
+127.0.0.1 - - [13/Mar/2019:20:10:35 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [13/Mar/2019:20:10:38 +0900] "GET /WebProj4/ HTTP/1.1" 200 716
+0:0:0:0:0:0:0:1 - - [13/Mar/2019:20:10:40 +0900] "POST /WebProj4/WelcomeAction.action HTTP/1.1" 200 864
+0:0:0:0:0:0:0:1 - - [13/Mar/2019:20:10:45 +0900] "POST /WebProj4/LoginAction.action HTTP/1.1" 200 478
+0:0:0:0:0:0:0:1 - - [13/Mar/2019:20:10:45 +0900] "GET /WebProj4/css/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [13/Mar/2019:20:11:02 +0900] "POST /WebProj4/LoginAction.action HTTP/1.1" 200 478
+0:0:0:0:0:0:0:1 - - [13/Mar/2019:20:11:31 +0900] "POST /WebProj4/WelcomeAction.action HTTP/1.1" 200 867
+0:0:0:0:0:0:0:1 - - [13/Mar/2019:20:11:35 +0900] "POST /WebProj4/LoginAction.action HTTP/1.1" 200 361

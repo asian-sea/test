@@ -1,6 +1,6 @@
-drop database if exists testdb;
-create database testdb;
-use testdb;
+drop database if exists testdb_tanoue;
+create database testdb_tanoue;
+use testdb_tanoue;
 
 create table users(
 user_id int primary key auto_increment,
