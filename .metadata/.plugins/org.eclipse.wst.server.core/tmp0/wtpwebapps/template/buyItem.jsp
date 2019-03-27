@@ -62,7 +62,7 @@
 	</div>
 	<div id="main">
 		<div id="top">
-			<p>ButItem</p>
+			<p>BuyItem</p>
 		</div>
 		<div>
 			<s:form action="BuyItemAction">
